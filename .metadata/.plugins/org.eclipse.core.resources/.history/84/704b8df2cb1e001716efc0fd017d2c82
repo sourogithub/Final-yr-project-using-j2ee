@@ -39,18 +39,7 @@
         </li>
         
 
-        <li><a href="#">Appliances &#9662;</a>
-        <ul class="dropdown2">
-
-                <li><a href="#">Laptops</a></li>
-
-                <li><a href="#">Monitors</a></li>
-
-                <li><a href="#">Printers</a></li>
-
-            </ul>
-        
-        </li>
+        <li><a href="#">Appliances &#9662;</a></li>
 
         <li>
 

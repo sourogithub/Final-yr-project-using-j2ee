@@ -13,6 +13,7 @@
      <ul>
      <li><a href="login.jsp">Login</a></li>
      <li><a href="Sign_up.jsp">Sign Up</a></li>
+     
      </ul>
 </div></div>
 <div id="Logo">
@@ -21,16 +22,39 @@
 <a><img src="../images/search-images-17.jpg" height="40px" width="40px" style="position:fixed;right:573px"></a>
 </h2>
 </div>
-
+<div class="items">
  <ul>
 
-        <li><a href="#">Home</a></li>
+        <li><a href="#">Electronics &#9662;</a>
+        <ul class="dropdown1">
 
-        <li><a href="#">About</a></li>
+                <li><a href="#">Laptops</a></li>
+
+                <li><a href="#">Monitors</a></li>
+
+                <li><a href="#">Printers</a></li>
+
+            </ul>
+        
+        </li>
+        
+
+        <li><a href="#">Appliances &#9662;</a>
+        <ul class="dropdown2">
+
+                <li><a href="#">Laptops</a></li>
+
+                <li><a href="#">Monitors</a></li>
+
+                <li><a href="#">Printers</a></li>
+
+            </ul>
+        
+        </li>
 
         <li>
 
-            <a href="#">Products &#9662;</a>
+            <a href="#">Clothes &#9662;</a>
 
             <ul class="dropdown">
 
@@ -44,8 +68,8 @@
 
         </li>
 
-        <li><a href="#">Contact</a></li>
+        <li><a href="#">Books &#9662;</a></li>
 
-    </ul>
+    </ul></div>
 </body>
 </html>
