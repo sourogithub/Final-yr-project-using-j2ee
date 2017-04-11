@@ -1,0 +1,32 @@
+#top h1{
+   background-color:blue;
+   color:white; 
+   font-size:35px;
+
+}
+#gign{
+a:visited {color: purple;}
+a:mouse.hover {color: orange;}
+a:active {color: red;}
+}
+
+tr:nth-child(even){background: yellow;}
+tr:nth-child(odd){background:lightblue;}
+
+
+#sky {
+position:absolute;
+top:850px;
+right:453px;
+align:center;
+z-index:-1;
+}
+
+
+#c{
+
+position:absolute;
+top:1200px;
+right:100px;
+
+}

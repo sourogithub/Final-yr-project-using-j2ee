@@ -1,0 +1,10 @@
+.menu 
+{
+	height:10px;
+	 font-size:10px;
+	 padding:0px; 
+	 float:left; 
+	 width:1330px;
+	 position:fixed;
+	 top:px;
+}

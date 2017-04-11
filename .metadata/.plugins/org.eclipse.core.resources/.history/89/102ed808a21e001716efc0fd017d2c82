@@ -1,0 +1,18 @@
+.menu 
+{
+	height:10px;
+	 font-size:10px;
+	 padding:0px; 
+	 float:left; 
+	 width:1330px;
+	 position:fixed;
+	 top:0px;
+}
+#Logo
+{
+	background:blue;
+	 height:100px;
+	 position:fixed;
+	 top:90px;
+	 width:1370px;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" align="center" style="background-color:yellow">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Timmer</title>
+<h1 align="center">Timmer</h1>
+<script>
+function start(){
+	var t=setTimeout("rotate()",1000);
+}
+function rotate(){
+	var d=new Date();
+	var ampm="";
+	if(d.getHours()>=12){
+		ampm="PM";
+	}
+	else{
+		ampm="AM";
+	}
+	document.getElementById('clock').innerHTML=d.getHours()+":"+d.getMinutes()+":"+d.getSeconds()+" "+ampm;
+	start();
+}
+</script>
+</head>
+
+<body onload="start();">
+
+<div id="clock" align="center" position="relative" style="size:50px;">
+
+</div>
+
+</body>
+</html>

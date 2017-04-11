@@ -1,0 +1,17 @@
+.menu 
+{
+	height:10px;
+	 font-size:15px;
+	 float:right; 
+	width:130px;
+	 top:0px;
+	 display:inline-block;
+}
+#Logo
+{
+	background:blue;
+	 height:100px;
+	 position:fixed;
+	 top:90px;
+	 width:1370px;
+}

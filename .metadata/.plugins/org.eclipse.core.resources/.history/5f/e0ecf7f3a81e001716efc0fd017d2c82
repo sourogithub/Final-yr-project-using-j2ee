@@ -1,0 +1,23 @@
+.menu 
+{
+	height:50px;
+	 font-size:15px;
+	 float:left; 
+	width:1300px;
+	 top:0px;
+	
+}
+#Logo
+{
+	background:blue;
+	 height:100px;
+	 position:fixed;
+	 top:90px;
+	 width:1370px;
+}
+.btn
+{
+	background-color:#0FF;
+	height:130px;
+}
+.menu ul {padding:0;margin:0;list-style-type:none; height:28px; background:#267cb2;font-size:11px}

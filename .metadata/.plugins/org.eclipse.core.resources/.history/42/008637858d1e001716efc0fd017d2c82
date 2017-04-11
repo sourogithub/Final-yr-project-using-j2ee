@@ -1,0 +1,99 @@
+<!doctype html>
+<head>
+<title>my page</title>
+<link rel="stylesheet"    href="../css/style.css">
+</head>
+
+<body style="background-color:rgb(255,255,166); color:blue;height:60px">
+<div id="top">
+<h1>Web Devolopers.Com
+ <input type="text" style="background-color:grey; position:absolute; right:104px; border-width:2;float: right" placeholder="search" required>
+ <a href="http://www.google.com"><img src="../images/search.png" style="position:absolute; right:104px; height:20px;float: right" ></a>
+</h1>
+</div>
+<div id="gign"  align="right">
+<strong>
+<a href="../html/main file.html"><img src="../images/home.png" height="40px" width="40px">Home</a>
+<a href="../html/r.html"><img src="../images/register.png" height="40px" width="40px">Register</a>
+<a href="../html/p.html"><img src="../images/photo.png" height="40px" width="40px">Photo Gallary</a>
+<a href="../html/contact.html"><img src="../images/c.png" height="40px" width="40px">Contact us</a>
+</strong>
+</div>
+<div align="center">
+<table>
+<div>
+<div>
+<table border="5" cellpadding="10px" cellspace="10" style="position:absolute; top:418px; right:1101px">
+<tr>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Father Name</th>
+<th>Mother Name</th>
+<th>D.O.B</th>
+</tr>
+<tr>
+<td>Arindam</td>
+<td>Roy</td>
+<td>Nanda Dulal Roy</td>
+<td>Kanika Roy</td>
+<td>12/04/1995</td>
+</tr>
+</table>
+</div>
+<table border="5" cellpadding="10px" cellspace="10" style="position: absolute;  right: 581px;   top: 418px" >
+<tr>
+<th>Country</th>
+<th>State</th>
+<th>City</th>
+<th>Address</th>
+<th>Zip code</th>
+</tr>
+<tr>
+<td>India</td>
+<td>West Bengal</td>
+<td>Kolkata</td>
+<td>p-44,C.I.T.Road,Kol-10</td>
+<td>700010</td>
+</tr>
+</table>
+</div>
+<div>
+<div>
+<table border="5" cellpadding="10px" cellspace="30" style="position: absolute; right: 623px; top: 517px" >
+<tr>
+<th>contact No.</th>
+<th>alternative mobile no.</th>
+<th>email</th>
+</tr>
+<tr>
+<td>7278750076</td>
+<td>9804055813</td>
+<td>arindamroy225@gmail.com</td>
+</tr>
+</table>
+</div>
+<table border="5" cellpadding="10px" cellspace="10" style="position:absolute; right:1101px; top:518px;">
+<tr>
+<th>stream</th>
+<th>year</th>
+<th>college</th>
+</tr>
+<tr>
+<td>Information Technology</td>
+<td>2nd</td>
+<td>Government College of Engineering & Leather Technology</td>
+</tr>
+</table>
+</div>
+</table>
+</div>
+<div id="sky">
+<img src="../images/veron.jpg"><h1>Buggati Veron</h1>
+</div>
+<div id="c">
+
+<input type="comment" name="comment"size="50px" maxlength="60px" style="height:40px; font-size:15px; width:200px" placeholder=comment required>
+<button>comment</button>
+</div>
+</body>
+</html>

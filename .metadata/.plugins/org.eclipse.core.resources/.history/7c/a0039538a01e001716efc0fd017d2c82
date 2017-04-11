@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body style="margin:0">
+
+<div id="top"  style="background:blue; height:100px;position:fixed;top:10px;width:1370px;">
+<h2>Welcome To Webstore
+<input type="text" placeholder="Search for products" required style="border-width:2;width:550px;height:35px">
+<a><img src="../images/search-images-17.jpg" height="40px" width="40px" style="position:fixed;right:575px"></a><br>
+</h2>
+</div>
+<div class="menu">
+<ul>
+<li><a href="Login.jsp">Login</a>
+<li><a href="Sign_up.jsp">Sign Up</a>
+</ul>
+</div>
+</body>
+</html>
